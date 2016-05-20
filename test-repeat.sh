@@ -1,0 +1,1 @@
+adb shell am instrument -w com.deppon.dpapp.test/android.test.InstrumentationTestRunner
